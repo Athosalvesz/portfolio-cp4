@@ -34,7 +34,6 @@ Este é um projeto de portfólio pessoal desenvolvido com React e estilizado com
 
 - Implementação de um modo noturno.
 - Adição de mais projetos com detalhamento.
-- Integração com um serviço de backend para o formulário de contato.
 
 ---
 
